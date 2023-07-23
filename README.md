@@ -4,9 +4,9 @@ EEVBlog Forums [USA Calibration Club 2023](https://www.eevblog.com/forum/metrolo
 
 ## Reports
 
-<a href="https://jjoonathan.github.io/FX.html"><img src="FX_preview.jpg"/></a>
-<a href="https://jjoonathan.github.io/PX.html"><img src="PX_preview.jpg"/></a>
-<a href="https://jjoonathan.github.io/R.html"><img src="R_preview.png"/></a>
+<a href="https://jjoonathan.github.io/FX.html"><img src="img/FX_preview.jpg"/></a>
+<a href="https://jjoonathan.github.io/PX.html"><img src="img/PX_preview.jpg"/></a>
+<a href="https://jjoonathan.github.io/R.html"><img src="img/R_preview.png"/></a>
 
 ## Navigation
 
@@ -22,3 +22,4 @@ EEVBlog Forums [USA Calibration Club 2023](https://www.eevblog.com/forum/metrolo
 * Reports
   * <b>FX.html</b>: FX Reference, all instruments. See: https://jjoonathan.github.io/FX.html
   * <b>PX.html</b>: PX Reference, all instruments. See: https://jjoonathan.github.io/PX.html
+  * <b>R.html</b>: Resistance References, DMM7510. See: https://jjoonathan.github.io/R.html
