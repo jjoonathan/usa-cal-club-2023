@@ -6,6 +6,7 @@ EEVBlog Forums [USA Calibration Club 2023](https://www.eevblog.com/forum/metrolo
 
 <a href="https://jjoonathan.github.io/FX.html"><img src="FX_preview.jpg"/></a>
 <a href="https://jjoonathan.github.io/PX.html"><img src="PX_preview.jpg"/></a>
+<a href="https://jjoonathan.github.io/R.html"><img src="R_preview.png"/></a>
 
 ## Navigation
 
